@@ -10,17 +10,17 @@ Text can be **bold**, _italic_, ~~strikethrough~
 
 > This is blockquote following a header.
 
-...c
+'''c
 
 //c code with syntax highlighting.
 #include <stdio.h>
 int main(void) {
     printf("Hello World!");
 }
-...
+'''
 
-*This is an unordered list
-        *This is an unordered list
+* This is an unordered list
+      *  This is an unordered list
 
  
 1. This is an ordered list
